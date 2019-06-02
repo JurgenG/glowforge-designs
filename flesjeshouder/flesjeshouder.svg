@@ -10,6 +10,8 @@
    viewBox="0 0 625.87115 657.17474"
    height="657.17474mm"
    width="625.87115mm">
+  <title
+     id="title513">Flask holder</title>
   <defs
      id="defs2" />
   <metadata
@@ -20,8 +22,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Flask holder</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>2019-06-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jurgen Gaeremyn</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Cut green areas, engrave black paths.
+Material Thickness: 3 mm</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
