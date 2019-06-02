@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="625.87115mm"
+   height="657.17474mm"
+   viewBox="0 0 625.87115 657.17474"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (0.92.4+201905290216+a364238)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="1489.0326"
-     inkscape:cy="-768.96146"
+     inkscape:cx="1900.6449"
+     inkscape:cy="554.58862"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,12 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -46,14 +51,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(108.90577,9.985442)">
     <path
        style="opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke:none;stroke-width:2.73153281;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 405.85742,340.92188 v 11.33789 H 80.816406 V 730.21289 H 69.476562 V 615.30273 H 46.802734 v 295.6875 c 0,41.11953 -0.350049,39.79102 34.121094,39.79102 V 1331.1572 H 957.5625 V 950.78125 c 33.22469,0 34.12109,-0.40094 34.12109,-38.37695 V 615.30273 H 969.00586 V 730.21289 H 957.66602 V 352.25977 H 632.62891 v -11.33789 z"
